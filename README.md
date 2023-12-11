@@ -33,9 +33,3 @@ Contributions to this repository are welcome. If you have suggestions, improveme
 
 - The app is built using the OpenAI GPT-2 language model, and we acknowledge the contributions of the OpenAI team to the field of natural language processing.
 - We would like to thank the open-source community for their support and contributions.
-
-## Contact
-
-If you have any questions or need assistance, you can contact us at [christinestraub0720.com](mailto:christinestraub0720@gmail.com).
-
-Enjoy using the Text Generation LLM App, and happy text generation!
